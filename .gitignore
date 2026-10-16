@@ -1,4 +1,5 @@
-# tool artifacts / local state
+# 工具产物 / 本地状态(不要提交)
+.playwright-mcp/
 node_modules/
 *.log
 *.bak
