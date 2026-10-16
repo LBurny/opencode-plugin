@@ -1,15 +1,15 @@
-# OpenCode 插件集
+# OpenCode Plugins
 
-[English](./README.en.md)
+English | [中文](./README.zh-CN.md)
 
-一个插件一个文件夹,各自独立安装、独立说明。
+A collection of plugins for OpenCode. One folder per plugin, each installed and documented on its own.
 
-| 插件 | 说明 |
+| Plugin | Description |
 | --- | --- |
-| [opencode-zoom](./opencode-zoom) | 桌面端缩放:记住比例、任意比例设置、步进可调 |
+| [opencode-zoom](./opencode-zoom) | Desktop zoom: remembers the level, set any percentage, adjustable step |
 
-## 加新插件
+## Add a plugin
 
-1. 新建文件夹 `opencode-xxx/`,放进插件本体和它自己的 README;
-2. 在上面的表格里加一行;
-3. 提交推送:`git add .` → `git commit -m "add opencode-xxx"` → `git push`。
+1. Create a folder `opencode-xxx/` with the plugin and its own README;
+2. Add a row to the table above;
+3. `git add .` → `git commit -m "add opencode-xxx"` → `git push`.
