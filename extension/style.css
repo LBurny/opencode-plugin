@@ -1,0 +1,4 @@
+/* oc.zoom — style entry (placeholder).
+   No styles are needed: the zoom UI lives in the main process (View menu and
+   its own dialog window). Keep this file so the extension manifest stays
+   complete for builds that do load renderer styles. */

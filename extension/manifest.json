@@ -1,0 +1,13 @@
+{
+  "schema": "opencode.gui-extension/1",
+  "id": "oc.zoom",
+  "name": "oc.zoom — Zoom Persist",
+  "version": "1.0.0",
+  "renderer": "renderer.js",
+  "main": "main.js",
+  "style": "style.css",
+  "imports": {
+    "renderer": [],
+    "main": ["electron", "node:fs", "node:path", "@opencode/gui-extensions/sdk/main"]
+  }
+}

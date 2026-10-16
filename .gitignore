@@ -1,0 +1,5 @@
+# tool artifacts / local state
+node_modules/
+*.log
+*.bak
+*.bak-oczoom-*
